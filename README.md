@@ -14,3 +14,5 @@ Projeto Integrador 2025 do Curso de Ciência da Computação do IFNMG Campus Mon
 2. Regulamento Disciplinar Discente dos Cursos de Graduação (Nova versão 2025)
 3. Regimento Geral
 4. Regimento Interno dos Campi
+
+# Etapa 2: Pré-processamento de Documentos Institucionais para RAG
