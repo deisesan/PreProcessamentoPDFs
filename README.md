@@ -10,9 +10,9 @@ Projeto Integrador 2025 do Curso de Ciência da Computação do IFNMG Campus Mon
 - `results/`: entregas organizadas (prévia, final)
 
 ## Etapa 1: Consolidação de Documentos Institucionais
-1. Regulamento dos Cursos de Graduação do Instituto Federal do Norte de Minas Gerais (IFNMG)
-2. Regulamento Disciplinar Discente dos Cursos de Graduação (Nova versão 2025)
-3. Regimento Geral
-4. Regimento Interno dos Campi
+1. Regulamento dos Cursos de Graduação do Instituto Federal do Norte de Minas Gerais (IFNMG) - RCG2025
+2. Regulamento Disciplinar Discente dos Cursos de Graduação (Nova versão 2025) 
+3. Regimento Geral - RG2025
+4. Regimento Interno dos Campi - RIC2025
 
 # Etapa 2: Pré-processamento de Documentos Institucionais para RAG
