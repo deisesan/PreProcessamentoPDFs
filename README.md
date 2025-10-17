@@ -8,3 +8,9 @@ Projeto Integrador 2025 do Curso de Ciência da Computação do IFNMG Campus Mon
 - `data/input/`: documentos PDF de entrada
 - `data/output/`: resultados gerados em JSON
 - `results/`: entregas organizadas (prévia, final)
+
+## Etapa 1: Consolidação de Documentos Institucionais
+1. Regulamento dos Cursos de Graduação do Instituto Federal do Norte de Minas Gerais (IFNMG)
+2. Regulamento Disciplinar Discente dos Cursos de Graduação (Nova versão 2025)
+3. Regimento Geral
+4. Regimento Interno dos Campi
